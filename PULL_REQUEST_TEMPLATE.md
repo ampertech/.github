@@ -1,11 +1,11 @@
-### This is what changed:
+### Changes
 
 In a few words...
 
 - Thing 1
 - Thing 2
 
-### This is how I know I didn't break anything:
+### QA
 
 - [ ] Kick the left tire
 - [ ] Kick the right tire
